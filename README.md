@@ -6,6 +6,7 @@
  
 - 🌍  I'm based in India
 - ✉️  You can contact me at rashid859041@gmail.com
+- 🏠 Working from home
 - 🧠  I'm learning Advanced React js and Python
 - 🤝 I'm open to collaborating on Python and Java Script projects
 
